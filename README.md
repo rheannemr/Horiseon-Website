@@ -13,3 +13,6 @@ Changes Made
 - Changed title of website to Horiseon Social Solution Services
 - Added comments to HTML and CSS files
 - Consolidated class names on HTML and CSS files to avoid redundancy in code
+
+Link to Website:
+https://rheannemr.github.io/Horiseon-Website/
