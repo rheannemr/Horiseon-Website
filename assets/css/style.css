@@ -75,6 +75,7 @@ p {
     margin-left: 20px;
 }
 
+/*Consolidated the benefits on the website into one class*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -99,6 +100,7 @@ p {
     max-width: 150px;
 }
 
+/* Consolidated the key roles on the website into one class*/
 .seo-rep-social {
     margin-bottom: 20px;
     padding: 50px;
